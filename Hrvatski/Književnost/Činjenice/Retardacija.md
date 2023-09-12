@@ -1,0 +1,1 @@
+Usporavanje radnje brojnim opisima

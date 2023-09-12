@@ -1,0 +1,1 @@
+Vrsta [[Stih]]a od 6 metričkih jedinica (stopa)

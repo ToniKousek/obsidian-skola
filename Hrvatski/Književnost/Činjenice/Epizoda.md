@@ -1,0 +1,1 @@
+- usporena paralelna radnja

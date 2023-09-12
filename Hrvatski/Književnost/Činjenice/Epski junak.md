@@ -1,0 +1,6 @@
+- Nositelj radnje (najčešće [[Ep]])
+- **Idealiziran**
+- često objedinjuje osobine cijelih skupina ljudi (naroda)
+- Prikazan kao uzorni heroj čiji su pothvati najčešće sudbinski za opstanak i razvoj nekog naroda
+- opširno opisan fizički izgled
+- karakterne osobine osobine su **iste** od početka do kraja 
