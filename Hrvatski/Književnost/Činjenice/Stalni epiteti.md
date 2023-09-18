@@ -1,0 +1,1 @@
+[[Epiteti]] koji se pojavljuju sa istom [[imenica|imenicom]]

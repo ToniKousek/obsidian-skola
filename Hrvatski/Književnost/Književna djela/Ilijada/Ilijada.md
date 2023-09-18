@@ -20,7 +20,7 @@ Dobila ime po **Iliju** (drugi naziv za Troju).
 - pjesnik je ograničio građu prikazavši događaje koji su se zbili za 51 dan, u 10. završnoj godini rata (Troja protiv Grka (Ahejaca))
 
 ## Temeljni motiv
-Ahilejeva srdžba zbog oduzete robinje "Briseide"
+"Ahilejeva" srdžba zbog oduzete robinje "Briseide"
 # Kronologija
 1. ![[Ilijada#Temeljni motiv]]
 2. Ahilej se povlači iz rata
@@ -40,4 +40,6 @@ Ahilejeva srdžba zbog oduzete robinje "Briseide"
 		- ljubavni prizor "Parisa" i "Helene"
 		- rastanak "Hektora" i "Andromede"
 
+# Osim toga
 U ovom epu postoji [[Epski junak]]
+Učestali su [[Stalni epiteti]]
