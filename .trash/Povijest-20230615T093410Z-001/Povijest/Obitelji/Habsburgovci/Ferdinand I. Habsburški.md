@@ -1,0 +1,1 @@
+Kako je nakon bitke na Mohačkom polju ugarsko-hrvatsko prijestolje bilo prazno, pojedini su hrvatski velikaši nastojali da novi kralj postane nadvojvoda [[Ferdinand I. Habsburški]] jer su od njega očekivali djelatnu pomoć u borbi protiv Osmanlija.

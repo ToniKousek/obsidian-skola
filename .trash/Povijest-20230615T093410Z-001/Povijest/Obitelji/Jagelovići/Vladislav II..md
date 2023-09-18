@@ -1,0 +1,1 @@
+Nakon smrti kralja Matijaša Korvina niže plemstvo nije željelo jaku kraljevstvu vlast. Plemstvo je za novoga kralja izabralo [[Vladislav II.]] iz dinastije [[Jagelovići]], koja je već vladala Poljskom i Češkom. Novi je kralj zbog novčanih teškoća postao ovisan o plemstvu, a k tome se i sustav protuosmanske obrane, koji je ustrojio Matijaš Korvin, postupno počeo raspadati. 
