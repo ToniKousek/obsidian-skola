@@ -12,5 +12,5 @@ Humanizam/Predrenesansa
 - [[Dante Alighieri]]
 
 # Važno
-- Naglasak je na svjetovnim temama uz ponešto religijskih, zbog [[Srednji vijek]]
+- Naglasak je na svjetovnim temama uz ponešto religijskih, zbog [[Srednji vijek|srednjeg vijeka]]
 - Latinski ostao, koristi se i pučki jezik
