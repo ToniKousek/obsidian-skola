@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"82c32ddc5648bae0","type":"text","text":"[[Elektronski omotač]]","x":-140,"y":-240,"width":250,"height":60},
+		{"id":"10d3a032c7ab3ba4","type":"text","text":"[[Protoni]]","x":-680,"y":80,"width":250,"height":60},
+		{"id":"2dc0f1e420ba9da8","type":"text","text":"[[Jezgra]]","x":-570,"y":-240,"width":250,"height":60},
+		{"id":"8c2dba0b8b1514ce","type":"text","text":"[[Nukleus]]","x":-570,"y":-100,"width":250,"height":60},
+		{"id":"d0364d22df817d7b","type":"text","text":"[[Neutroni]]","x":-430,"y":80,"width":250,"height":60},
+		{"id":"040541f607df313b","type":"text","text":"[[Elektroni]]","x":-140,"y":80,"width":250,"height":60},
+		{"id":"695861866de97262","type":"text","text":"[[Atom]]","x":-360,"y":-480,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"20a2442900a2fc69","fromNode":"695861866de97262","fromSide":"bottom","toNode":"2dc0f1e420ba9da8","toSide":"top"},
+		{"id":"b848ddaf3bf9f7c7","fromNode":"695861866de97262","fromSide":"bottom","toNode":"82c32ddc5648bae0","toSide":"top"},
+		{"id":"4923b53327948973","fromNode":"2dc0f1e420ba9da8","fromSide":"bottom","toNode":"8c2dba0b8b1514ce","toSide":"top"},
+		{"id":"7cb2ce9d45249362","fromNode":"82c32ddc5648bae0","fromSide":"bottom","toNode":"040541f607df313b","toSide":"top"},
+		{"id":"77e8c0c253cc11cd","fromNode":"10d3a032c7ab3ba4","fromSide":"top","toNode":"8c2dba0b8b1514ce","toSide":"bottom"},
+		{"id":"433f22e7b71f3a2e","fromNode":"d0364d22df817d7b","fromSide":"top","toNode":"8c2dba0b8b1514ce","toSide":"bottom"}
+	]
+}
